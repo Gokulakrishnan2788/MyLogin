@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_id">207103599626129</string>
+    <string name="app_name">MyLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="name">Facebook Name</string>
+    <string name="gender">Gender</string>
+</resources>
